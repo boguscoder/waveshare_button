@@ -1,0 +1,11 @@
+[package]
+name = "waveshare_button"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+esp-hal = { version = "1.1.1", features = ["esp32c6", "unstable"] }
+
+embassy-executor = "0.10.0"
+embassy-time = "0.5.1"
+embassy-sync = "0.8.0"

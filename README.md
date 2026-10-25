@@ -1,1 +1,1 @@
-# waveshare_button
+Shared BOOT-button handling for the waveshare ESP32-C6 boards
